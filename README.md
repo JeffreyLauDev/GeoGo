@@ -7,7 +7,7 @@ GeoGO is built by muti-platform application supporting Android and Ios, this app
 ## Demo Product
 
 * Download the source file, open it with visual studio 2017. 
-* Try the Prototype - Please visit in [Here](https://xd.adobe.com/view/ff61580e-0772-4736-6db3-5a6c61ccaba6-8950/)
+* Try the design Prototype - Please visit in [Here](https://xd.adobe.com/view/ff61580e-0772-4736-6db3-5a6c61ccaba6-8950/)
 ### Prerequisites
 
 *  [Visual Studio Tools for Xamarin](https://visualstudio.microsoft.com/xamarin/)
@@ -36,5 +36,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Jeffrey Lau** - *Developer* - [JeffreyLauDev](https://github.com/abc007007007)
+* **Jeffrey Lau** - *Developer & Designer* - [JeffreyLauDev](https://github.com/abc007007007)
 * **Eric Lee** - *Developer* - [Ericlkl](https://github.com/Ericlkl/GeoGo)
